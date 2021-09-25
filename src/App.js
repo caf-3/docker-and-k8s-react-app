@@ -8,7 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           By there!!!
-          File mapping
         </p>
         <a
           className="App-link"
